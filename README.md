@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ryanbasic1/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
