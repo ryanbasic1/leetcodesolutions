@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ryanbasic1/leetcodesolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ryanbasic1/leetcodesolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
