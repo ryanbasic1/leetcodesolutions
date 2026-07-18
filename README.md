@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ryanbasic1/leetcodesolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ryanbasic1/leetcodesolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
